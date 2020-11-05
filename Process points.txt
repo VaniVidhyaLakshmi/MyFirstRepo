@@ -1,0 +1,34 @@
+DStum:
+Timeboxing
+Moving of subtasks - needs to be done before or on dstum.
+During planning, we are creating generic tasks and saying that we'll split once we start with the implementation. But it doesn't happen.
+We decided that we'll create a task that can be completed in 1 day, but this is not happening.
+Analysis - simply it's written as functional and technical, but what is that we are doing? do we've to document somewhere?
+Don't talk too much on technical details. Report on things that are relevant to everyone in the meeting.Let's discuss technical with only the reqd. persons.
+I still feel proper comments are not added to the story.
+Team should be able to tell all the impacted areas, whether regresstion testing is required atleast by the middle of sprint so that tester can plan accordingly.
+Team should be highlight the risks for their story/task atleast by the middle of sprint instead of the person who is driving the dstum
+Everyday someone monitors the sonarqube and update in dstum. Maybe we can start alphabetically. 1 person for each week
+Anand/Sandhya to monitor bug board everyday
+mention the impediments in each story so that anyone can refer at any time
+Let's summarize at the end the status of sprint
+PPl on training, not giving proper update
+
+
+
+Review:
+Team is saying they are writing pseudo junits, but it's not shown to anyone for peer review
+For peer review, junits should be ready and all the sonarqube issues should be addressed
+For architect review, it's been decided that we'll move the architect task  to indicate that it's ready for review so that Arhictect can plan for review. Also all peer review/rework should be completed.
+For private method, yes no java doc is required. But if the developer feels method is complicated, then suggest to write java docs
+When do we want to have check for Documentation?
+Most of the time we forgot to put loggers in the code. Think of error and exception handling
+100% code coverage, write junits for exception scenarios as well
+Are the comments sufficient to understand the procedure and the intention of test? Is it easy to understand what every test method covers and why & how it does that?
+
+
+Syncup
+Do we need to have this call? we created this for some purpose which is not happening now a days.
+
+
+
